@@ -1,0 +1,14 @@
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\obj\Debug\Kursovoy_project.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\obj\Debug\Kursovoy_project.Properties.Resources.resources
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\obj\Debug\Kursovoy_project.csproj.GenerateResource.cache
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\obj\Debug\Kursovoy_project.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\bin\Debug\Kursovoy_project.exe.config
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\bin\Debug\Kursovoy_project.exe
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\bin\Debug\Kursovoy_project.pdb
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\obj\Debug\Kursovoy_project.exe
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\obj\Debug\Kursovoy_project.pdb
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\obj\Debug\Kursovoy_project.View.ShowMatrixDialog.resources
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\obj\Debug\Kursovoy_project.View.InputMatrixDialog.resources
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\obj\Debug\Kursovoy_project.View.MainWindow.resources
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\obj\Debug\Kursovoy_project.View.InformationForm.resources
+C:\Users\grish\source\repos\Kursovoy_project\Kursovoy_project\obj\Debug\Kursovoy_project.View.UnitMatrixForm.resources
